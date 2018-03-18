@@ -1,0 +1,66 @@
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.csprojResolveAssemblyReference.cache
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.Apolice.resources
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.Cliente.resources
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.Form1.resources
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.Properties.Resources.resources
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.GenerateResource.Cache
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\bin\Debug\Seguradora.exe.config
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\bin\Debug\Seguradora.exe
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\bin\Debug\Seguradora.pdb
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\bin\Debug\MySql.Data.dll
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.exe
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.pdb
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.Marca.resources
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.Modelo.resources
+c:\users\senai\documents\visual studio 2017\Projects\Seguradora\Seguradora\obj\Debug\Seguradora.Veiculo.resources
+D:\T68\Seguradora\Seguradora\bin\Debug\Seguradora.exe.config
+D:\T68\Seguradora\Seguradora\bin\Debug\Seguradora.exe
+D:\T68\Seguradora\Seguradora\bin\Debug\Seguradora.pdb
+D:\T68\Seguradora\Seguradora\bin\Debug\MySql.Data.dll
+D:\T68\Seguradora\Seguradora\bin\Debug\MySql.Data.xml
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.csprojResolveAssemblyReference.cache
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioApolice.resources
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioCliente.resources
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioZMenu.resources
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioMarca.resources
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioModelo.resources
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.Properties.Resources.resources
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioVeiculo.resources
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.GenerateResource.Cache
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.exe
+D:\T68\Seguradora\Seguradora\obj\Debug\Seguradora.pdb
+D:\C#\Seguradora\Seguradora\Seguradora\bin\Debug\Seguradora.exe.config
+D:\C#\Seguradora\Seguradora\Seguradora\bin\Debug\Seguradora.exe
+D:\C#\Seguradora\Seguradora\Seguradora\bin\Debug\Seguradora.pdb
+D:\C#\Seguradora\Seguradora\Seguradora\bin\Debug\MySql.Data.dll
+D:\C#\Seguradora\Seguradora\Seguradora\bin\Debug\MySql.Data.xml
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csprojResolveAssemblyReference.cache
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioApolice.resources
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioCliente.resources
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioZMenu.resources
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioMarca.resources
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioModelo.resources
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.Properties.Resources.resources
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioVeiculo.resources
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.GenerateResource.Cache
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.CoreCompileInputs.cache
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.exe
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.pdb
+D:\C#\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.CopyComplete
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\bin\Debug\Seguradora.exe.config
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\bin\Debug\Seguradora.exe
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\bin\Debug\Seguradora.pdb
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\bin\Debug\MySql.Data.xml
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioApolice.resources
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioCliente.resources
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioZMenu.resources
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioMarca.resources
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioModelo.resources
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.Properties.Resources.resources
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.FormularioVeiculo.resources
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.GenerateResource.cache
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.csproj.CopyComplete
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.exe
+C:\Users\Leonardo\Downloads\Projetos\C#\Seguradora\Seguradora\Seguradora\Seguradora\obj\Debug\Seguradora.pdb
